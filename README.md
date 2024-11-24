@@ -22,6 +22,12 @@
    ```
 4. Open the provided URL in a web browser.
 
+## Screenshot
+Simple Quiz Screenshot![Screenshot1](https://github.com/user-attachments/assets/2f549251-d530-4a89-84bb-e3265fd61c27)
+
+![Screenshot2](https://github.com/user-attachments/assets/444f6915-c6aa-41b9-947a-6dd75c1f7502)
+
+
 ## Live Demo
 [Click here to try the app](https://quizyogesh17082003.streamlit.app/)
 
