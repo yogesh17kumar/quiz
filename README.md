@@ -42,6 +42,8 @@ The application will open in your default web browser at:
 ```
 http://localhost:8501
 ```
+## Live Demo
+[Click here to try the app](https://quizyogesh17082003.streamlit.app/) 
 
 ## File Structure
 ```
