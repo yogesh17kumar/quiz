@@ -1,71 +1,48 @@
-# Simple Quiz App 
-
-## Overview
-This **Simple Quiz App** is a lightweight web-based application built with Streamlit. It presents a set of multiple-choice questions and evaluates the user's performance in real-time.
+# 🧠 Simple Quiz App
 
 ## Features
-- **Interactive Questions**: Users can answer a series of multiple-choice questions.
-- **Real-time Feedback**: Immediate feedback on whether the selected answer is correct or wrong.
-- **Score Tracking**: Tracks the score as users progress through the quiz.
-- **Retake Option**: Users can restart the quiz after completion.
-- **Elegant Design**: Responsive UI with colorful feedback messages.
 
-## Technologies Used
-- **Python**
-- **Streamlit**
+- **Interactive Questions**: Answer multiple-choice questions in an engaging way.
+- **Real-Time Feedback**: Know instantly if your answer is correct or not.
+- **Score Tracking**: See your progress and final score at the end of the quiz.
+- **Retake Option**: Restart the quiz for another attempt.
 
-## How to Run the App
-### 1. Prerequisites
-Ensure you have the following installed:
-- Python (>=3.7)
-- Streamlit library (`pip install streamlit`)
+## Requirements
 
-### 2. Clone or Download the Project
-```bash
-git clone https://github.com/<your-github-username>/simple-quiz-app.git
-cd simple-quiz-app
-```
+- Python 3.7 or later.
+- Streamlit library (`pip install streamlit`).
 
-### 3. Install Dependencies
-```bash
-pip install streamlit
-```
+## How to Run
 
-### 4. Run the Application
-Execute the following command:
-```bash
-streamlit run app.py
-```
+1. Save the code as `quiz.py`.
+2. Open a terminal in the directory containing the file.
+3. Run the command:
+   ```bash
+   streamlit run quiz.py
+   ```
+4. Open the provided URL in a web browser.
 
-### 5. Access the App
-The application will open in your default web browser at:
-```
-http://localhost:8501
-```
 ## Live Demo
-[Click here to try the app](https://quizyogesh17082003.streamlit.app/) 
+[Click here to try the app](https://quizyogesh17082003.streamlit.app/)
 
-## File Structure
-```
-simple-quiz-app/
-│
-├── app.py           # Main application file
-├── requirements.txt # Python dependencies (if applicable)
-└── README.md        # Project documentation
-```
+## File Details
 
-## Screenshot
-![Quiz App Screenshot](screenshot.png)
+- **quiz_app.py**: Main application file containing the quiz logic.
+- **README.md**: Documentation for the project.
+
+## Usage
+
+1. **Start the Quiz**: Launch the app to begin answering questions.
+2. **Answer Questions**: Select your answer from the provided options.
+3. **View Results**: At the end, see your final score.
+4. **Retake the Quiz**: Use the "Retake Quiz" button to try again.
 
 ## Future Enhancements
-- Add a timer for each question.
-- Include more diverse question categories.
-- Support for multiple users with score history.
 
-## License
-This project is licensed under the MIT License.
+- Add more questions dynamically from a database or API.
+- Include timed quizzes.
+- Introduce leaderboard functionality.
 
 ---
 
-
-](https://quizyogesh17082003.streamlit.app/)
+Enjoy testing your knowledge! 🎉
